@@ -18,4 +18,5 @@ idea: create software sampler targeting old Android phones and old computers to 
 - https://nakst.gitlab.io/tutorial/clap-part-1.html
 - https://github.com/SavingCaustic
 - https://www.raylib.com/
+- https://github.com/shorepine/amy
 - https://github.com/severak/rebeat/
