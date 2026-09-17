@@ -9,6 +9,7 @@ idea: create software sampler targeting old Android phones and old computers to 
 - Caustic 3
 - The Playhead
 - [Ultranos Dreamer](https://zahrada.svita.cz/en/ultranos-dreamer)
+- Yamaha SU10 and QY10
 
 ## resources and potential code
 
@@ -20,3 +21,4 @@ idea: create software sampler targeting old Android phones and old computers to 
 - https://www.raylib.com/
 - https://github.com/shorepine/amy
 - https://github.com/severak/rebeat/
+- [Building Smartphone Instruments from Commodity Hardware](https://www.youtube.com/watch?v=uqKkP0zFBGg)
