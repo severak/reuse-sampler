@@ -22,4 +22,5 @@ idea: create software sampler targeting old Android phones and old computers to 
 - https://github.com/shorepine/amy
 - https://github.com/severak/rebeat/
 - https://www.osar.fr/protoplug/
+- https://github.com/steffest/bassoontracker
 - [Building Smartphone Instruments from Commodity Hardware](https://www.youtube.com/watch?v=uqKkP0zFBGg)
