@@ -11,6 +11,8 @@ idea: create software sampler targeting old Android phones and old computers to 
 - [Ultranos Dreamer](https://zahrada.svita.cz/en/ultranos-dreamer)
 - Yamaha SU10 and QY10
 
+First release will be actually fuctional remake of SU10.
+
 ## resources, ideas and potential code
 
 - https://miniaud.io/
@@ -24,3 +26,4 @@ idea: create software sampler targeting old Android phones and old computers to 
 - https://www.osar.fr/protoplug/
 - https://github.com/steffest/bassoontracker
 - [Building Smartphone Instruments from Commodity Hardware](https://www.youtube.com/watch?v=uqKkP0zFBGg)
+- plugins by nakst - https://nakst.itch.io/ (UI ideas)
