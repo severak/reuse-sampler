@@ -27,3 +27,4 @@ First release will be actually fuctional remake of SU10.
 - https://github.com/steffest/bassoontracker
 - [Building Smartphone Instruments from Commodity Hardware](https://www.youtube.com/watch?v=uqKkP0zFBGg)
 - plugins by nakst - https://nakst.itch.io/ (UI ideas)
+- https://jasonbmusic.itch.io/4trk
